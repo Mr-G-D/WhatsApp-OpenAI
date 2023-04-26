@@ -22,6 +22,7 @@ def receiveMessage():
         message = request.form['Body']
         sender_id = request.form['From']
 
+
         # Get response from Openai
         result = text_complition(message)
         if result['status'] == 1:
