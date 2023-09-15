@@ -41,9 +41,6 @@ gunicorn run:app
 * provide the NGROk urlon `Twilio WhatsApp Sandbox` for all incoming request.
 * test the setup using your WhatsApp
 
-# About me
-I am `Raj Kapadia`, I am passionate about `AI/ML/DL` and their use in different domains, I also love to build `chatbots` using `Google Dialogflow ES/CX`, I have backend development experience with Python[Flask], and NodeJS[Express] For any work, you can reach out to me at...
-
 * [LinkedIn](https://www.linkedin.com/in/rajkkapadia/)
 * [Fiverr](https://www.fiverr.com/rajkkapadia​)
 * [Upwork](https://www.upwork.com/freelancers/~0176aeacfcff7f1fc2)
